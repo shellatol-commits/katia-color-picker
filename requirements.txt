@@ -1,0 +1,7 @@
+tk
+pillow
+pynput
+pystray
+mss
+requests
+pyperclip
