@@ -1,2 +1,2 @@
-# didactic-giggle
-glowing-octo-invention, didactic-giggle
+# katia-color-picker
+A color picker.
