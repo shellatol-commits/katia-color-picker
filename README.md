@@ -1,4 +1,3 @@
-![Demo](https://drive.google.com/uc?id=12-v8rA2yOhRxMkWt8L6cuefWNoAMNs7Y)
 # 🎯 Katia Color Picker
 
 A fast, modern desktop color picker built in Python.
@@ -33,7 +32,7 @@ A fast, modern desktop color picker built in Python.
 
 ## 🖼 Preview
 
-(Add screenshot here)
+![Preview](https://drive.google.com/uc?id=12-v8rA2yOhRxMkWt8L6cuefWNoAMNs7Y)
 
 ---
 
